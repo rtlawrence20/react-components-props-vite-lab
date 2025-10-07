@@ -92,3 +92,19 @@ If the article takes 30 minutes or longer to read:
 
 There aren't tests for this feature, so you'll have to rely on running the code
 in the browser to see if your implementation works!
+
+# Instructions to run project:
+1. **Create a fork on Github and/or clone the repository:**
+    ```bash
+    git clone <repo-url>
+
+2. **CD to Directory and Install Dependencies**
+    ```bash
+    cd <repo>
+    npm install
+
+3. **Start the app**
+    ```bash
+    npm run dev
+
+4. **Open your browser and visit the URL shown in the terminal (usually http://localhost:5173)**

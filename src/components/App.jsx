@@ -6,6 +6,17 @@ import Header from "./Header";
 
 console.log(blogData);
 
+/**
+ * App component renders the main blog layout.
+ *
+ * Included components:
+ * - Header component displaying the blog name
+ * - About component containing optional image and description
+ * - ArticleList component housing all blog posts
+ *
+ * @component
+ * @returns {JSX.Element} The main blog layout
+ */
 function App() {
     return (
         <div className="App">
