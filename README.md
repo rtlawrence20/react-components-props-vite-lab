@@ -108,3 +108,6 @@ in the browser to see if your implementation works!
     npm run dev
 
 4. **Open your browser and visit the URL shown in the terminal (usually http://localhost:5173)**
+
+# Screenshot
+![Event handling lab screenshot](src/assets/screenShot.PNG)
